@@ -1,0 +1,3 @@
+[submodule "backend/e-comm-backend"]
+	path = backend/e-comm-backend
+	url = https://github.com/praveen027/e-comm-backend.git

@@ -1,3 +1,6 @@
 [submodule "backend/e-comm-backend"]
 	path = backend/e-comm-backend
 	url = https://github.com/praveen027/e-comm-backend.git
+[submodule "admin-app/ecomm-admin"]
+	path = admin-app/ecomm-admin
+	url = https://github.com/praveen027/ecomm-admin.git
